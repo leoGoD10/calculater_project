@@ -22,6 +22,4 @@ This is a simple calculator application built using HTML, CSS, and JavaScript. T
 To use this calculator, simply clone the repository and open the `index.html` file in your web browser.
 
 ```bash
-git clone https://github.com/sumanbiswas9/Calculator-Using-HTML-CSS-and-JAVASCRIPT.git
-cd Calculator-Using-HTML-CSS-and-JAVASCRIPT
-open index.html
+git clone https://github.com/leoGoD10/calculater_project.git
